@@ -1,0 +1,11 @@
+C:\Users\tpronschinske\Desktop\Personal\BuilderPattern\BuilderPattern\BuilderPattern\bin\Debug\netcoreapp2.2\BuilderPattern.deps.json
+C:\Users\tpronschinske\Desktop\Personal\BuilderPattern\BuilderPattern\BuilderPattern\bin\Debug\netcoreapp2.2\BuilderPattern.runtimeconfig.json
+C:\Users\tpronschinske\Desktop\Personal\BuilderPattern\BuilderPattern\BuilderPattern\bin\Debug\netcoreapp2.2\BuilderPattern.runtimeconfig.dev.json
+C:\Users\tpronschinske\Desktop\Personal\BuilderPattern\BuilderPattern\BuilderPattern\bin\Debug\netcoreapp2.2\BuilderPattern.dll
+C:\Users\tpronschinske\Desktop\Personal\BuilderPattern\BuilderPattern\BuilderPattern\bin\Debug\netcoreapp2.2\BuilderPattern.pdb
+C:\Users\tpronschinske\Desktop\Personal\BuilderPattern\BuilderPattern\BuilderPattern\obj\Debug\netcoreapp2.2\BuilderPattern.csprojAssemblyReference.cache
+C:\Users\tpronschinske\Desktop\Personal\BuilderPattern\BuilderPattern\BuilderPattern\obj\Debug\netcoreapp2.2\BuilderPattern.csproj.CoreCompileInputs.cache
+C:\Users\tpronschinske\Desktop\Personal\BuilderPattern\BuilderPattern\BuilderPattern\obj\Debug\netcoreapp2.2\BuilderPattern.AssemblyInfoInputs.cache
+C:\Users\tpronschinske\Desktop\Personal\BuilderPattern\BuilderPattern\BuilderPattern\obj\Debug\netcoreapp2.2\BuilderPattern.AssemblyInfo.cs
+C:\Users\tpronschinske\Desktop\Personal\BuilderPattern\BuilderPattern\BuilderPattern\obj\Debug\netcoreapp2.2\BuilderPattern.dll
+C:\Users\tpronschinske\Desktop\Personal\BuilderPattern\BuilderPattern\BuilderPattern\obj\Debug\netcoreapp2.2\BuilderPattern.pdb
